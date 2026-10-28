@@ -74,7 +74,6 @@ Based on the current dataset and SQL calculations:
 
 ## Project Files
 - `retail_sales_analysis.sql` — SQL queries and, if included, table creation and data insertion statements.
-- `retail_sales_dataset.csv` — Optional separate dataset file.
 
 ## How to Use This Project
 1. Download or clone this repository.
@@ -89,3 +88,7 @@ This project demonstrates the use of SQL for basic retail data analysis. It help
 
 ---
 **Project Type:** Beginner SQL Data Analyst Portfolio Project
+
+## Author
+
+**Created by:** INNAMA AKHTAR
