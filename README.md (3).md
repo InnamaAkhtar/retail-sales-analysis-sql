@@ -86,9 +86,9 @@ Based on the current dataset and SQL calculations:
 ## Conclusion
 This project demonstrates the use of SQL for basic retail data analysis. It helps identify sales patterns, evaluate product and customer performance, and generate insights that can support business decision-making.
 
----
-**Project Type:** Beginner SQL Data Analyst Portfolio Project
-
 ## Author
 
 **Created by:** INNAMA AKHTAR
+
+---
+**Project Type:** Beginner SQL Data Analyst Portfolio Project
